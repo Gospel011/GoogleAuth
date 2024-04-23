@@ -14,7 +14,8 @@
     "axios": "^1.6.5",
     "dotenv": "^16.4.5",
     "express": "^4.19.2",
-    "google-auth-library": "^9.8.0"
+    "google-auth-library": "^9.8.0",
+    "jsonwebtoken": "^9.0.2"
   },
   "devDependencies": {
     "morgan": "^1.10.0"
